@@ -1,0 +1,6 @@
+torch
+transformers
+pillow
+numpy
+opencv-python<5          # OpenCV 5 removed the bundled Haar face cascade
+gradio
